@@ -1,0 +1,48 @@
+baseURL = 'https://k3vind.github.io/'
+copyright = "© Kévin DENIS"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy"]
+enableRobotsTXT = true
+languageCode = "en"
+timeZone = "Europe/Paris"
+timeout = "120s"
+title = "Kévin Denis"
+
+[params]
+  defaultTheme = "dark"
+  [params.author]
+    email = "denis-kevin@hotmail.fr"
+    name = "Kévin DENIS"
+  [params.socialIcons]
+    instagram = "https://www.instagram.com/kevindenis.shots"
+    github = "https://github.com/k3vind"
+    email = "mailto:denis-kevin@hotmail.fr"
+    #youtube = "https://www.youtube.com"
+    #website = "https://example.com"
+  [params.gallery]
+    #boxSpacing = 10
+    #targetRowHeight = 288
+    #targetRowHeightTolerance = 0.25
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[module]
+  [module.hugoVersion]
+    min = "0.121.2"
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+[services]
+  [services.rss]
+    limit = 100
