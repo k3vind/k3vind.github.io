@@ -5,7 +5,7 @@ disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 languageCode = "en"
 timeZone = "Europe/Paris"
-timeout = "120s"
+timeout = "300s"
 title = "Kévin Denis"
 
 [params]
