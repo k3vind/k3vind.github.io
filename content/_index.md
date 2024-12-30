@@ -1,6 +1,6 @@
 ---
 title: Gallery
-description: Hi ! Don't hesitate to give me some feedback ;)
+#description: Hi ! Don't hesitate to give me some feedback ;)
 menus:
   main:
     name: Home
