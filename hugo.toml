@@ -24,13 +24,26 @@ title = "Kévin Denis"
     #targetRowHeight = 288
     #targetRowHeightTolerance = 0.25
 
+[related]
+  includeNewer = true
+  threshold = 10
+  toLower = false
+  [[related.indices]]
+    applyFilter = false
+    cardinalityThreshold = 0
+    name = 'categories'
+    pattern = ''
+    toLower = false
+    type = 'basic'
+    weight = 10
+
 [outputs]
   home = ["HTML", "RSS"]
   page = ["HTML"]
   section = ["HTML"]
 
 [imaging]
-  quality = 75
+  quality = 100
   resampleFilter = "CatmullRom"
   [imaging.exif]
     disableDate = false

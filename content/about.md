@@ -1,5 +1,5 @@
 ---
-title: About
+title: About me
 layout: page
 rss_ignore: true
 menu:

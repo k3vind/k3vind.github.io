@@ -1,8 +1,8 @@
 ---
 title: Cars
+categories: ["sport"]
 params:
-  featured_image: IMG_4950.jpg
-resources:
-  - src: alpine_main.jpg
-    title: "Alpine store - Le Mans"
+  featured_image: lemans/IMG_4950.jpg
+  sort_by: Name
+  sort_order: desc
 ---
