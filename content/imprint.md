@@ -21,7 +21,7 @@ We will disclose without delay if requested
 
 ### Email Address
 
-denis-kevin@hotmail.fr
+We will disclose without delay if requested
 
 ### Copyright notice
 

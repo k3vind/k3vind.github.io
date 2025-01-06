@@ -1,4 +1,4 @@
-baseURL = 'https://k3vind.github.io/'
+baseURL = 'https://kevindenis.fr/'
 copyright = "© Kévin DENIS"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
@@ -16,7 +16,7 @@ title = "Kévin Denis"
   [params.socialIcons]
     instagram = "https://www.instagram.com/kevindenis.shots"
     github = "https://github.com/k3vind"
-    email = "mailto:denis-kevin@hotmail.fr"
+    #email = "mailto:denis-kevin@hotmail.fr"
     #youtube = "https://www.youtube.com"
     #website = "https://example.com"
   [params.gallery]
