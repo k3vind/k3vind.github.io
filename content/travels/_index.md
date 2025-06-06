@@ -4,7 +4,7 @@ description: Travel photography invites you to journey through the lens, explori
 weight: 1
 menu: main
 resources:
-  - src: IMG_1197-EDIT.jpg
+  - src: IMG_1195.jpg
     params:
       cover: true
 ---

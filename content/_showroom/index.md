@@ -6,5 +6,5 @@ menus:
 params:
   featured: true
   private: true
-  featured_image: 3-cars/IMG_1560-EDIT.jpg
+  featured_image: 3-cars/IMG_1560.jpg
 ---

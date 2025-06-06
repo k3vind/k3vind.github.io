@@ -5,5 +5,5 @@ categories: ["street"]
 weight: 3
 menu: main
 params:
-  featured_image: pont_de_pierre.jpg
+  featured_image: IMG_9497.jpg
 ---
