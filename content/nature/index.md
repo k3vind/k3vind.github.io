@@ -5,7 +5,7 @@ categories: ["nature"]
 weight: 4
 menu: main
 params:
-  featured_image: plants/IMG_9463.jpg
+  featured_image: plants/IMG_9461.jpg
   sort_by: Name
   sort_order: desc
 ---
