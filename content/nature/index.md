@@ -5,7 +5,7 @@ categories: ["nature"]
 weight: 4
 menu: main
 params:
-  featured_image: landscapes/20180817_165322.jpg
+  featured_image: plants/IMG_9463.jpg
   sort_by: Name
   sort_order: desc
 ---
